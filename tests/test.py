@@ -1,1 +1,2 @@
-print(0)
+def test_main():
+  return assert True
