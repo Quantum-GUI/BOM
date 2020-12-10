@@ -1,0 +1,2 @@
+class Style(object):
+    pass
